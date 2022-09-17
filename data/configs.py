@@ -1,4 +1,4 @@
-TOKEN = '5483050351:AAHo0SsidrdibP6pn6zKfBwPthL7ER2kqgM'
+TOKEN = ''
 LANGUAGES = {
     'ru': 'Русский',
     'en': 'Английский',

@@ -1,2 +1,2 @@
 
-![HEADER](https://github.com/fomichevevgeniy/translatorbot/blob/main/1.png)
+![HEADER](https://github.com/fomichevevgeniy/translatorbot/blob/main/2.png)
